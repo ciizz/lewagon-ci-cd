@@ -6,7 +6,7 @@ We want to deploy the API inside our container to the cloud so that anybody can 
 
 # 1️⃣ Deployment
 
-1. Setup your `.env` here you can duplicate the `.env.example` and rename it to `.env` and fill in the `DOCKER_IMAGE_NAME`! Pick a name which pushes to the artifact registry you setup before!
+1. Setup your `.env` here you can duplicate the `.env.example` and rename it to `.env` and fill in the `DOCKER_IMAGE_NAME`! Pick a name which pushes to the artifact registry you setup before.
 
 2. Setup the makefile with the following commands:
     ```bash
